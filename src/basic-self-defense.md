@@ -125,11 +125,11 @@ social media post that suddenly changes what you buy or how you vote or how you
 treat other people. You're not going to wake up one day and find that your
 worldview has shifted overnight. But shift it will.
 
-And yes, it really is your _worldview_ that's at stake. The dangerous part of
-propaganda — or any media, really — is not what it _says_, but what it assumes
-and implies. You can read a thousand right-wing blog posts and your politics
-won't budge. But you'll become fearful, distrustful, bitter. Your heart will
-harden — even if all thousand posts you read were written by Russian trolls
-and AI bots.
+The dangerous part of propaganda — or any media, really — is not what it
+_says_, but what it assumes and implies. You can read a thousand right-wing
+blog posts and your politics won't budge. But you'll become fearful,
+distrustful, bitter. You'll assume the worst about other people. Your heart
+will harden — even if all thousand posts you read were manufactured by Russian
+trolls and AI bots, untethered from the actual beliefs of any person.
 
 Seriously, [go read the blog post I linked above][cigarettes-and-shopify].
