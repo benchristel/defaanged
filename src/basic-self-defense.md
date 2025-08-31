@@ -111,16 +111,25 @@ You might think you don't need all this protection. _I'm a smart person,_ you
 think. _I never click on ads! I'm not going to be bamboozled by clickbait!_
 
 This reminds me of people who, when they're told that cigarettes cause cancer,
-say "I just won't smoke the bad ones, then." Seriously, people have said that!
+say "I just won't smoke the bad ones, then."
+[Seriously, people have said that!][cigarettes-and-shopify]
+
+[cigarettes-and-shopify]: https://third-bit.com/2018/05/06/cigarettes-and-shopify/
 
 Personality security is not like infosec or physical security. In other
-security fields, the bad guys are either in or they're out, and everything is
-fine until there's a break-in and you lose everything. But personality security
-threats are more subtle and incremental. Just like there's no one cigarette
-that kills you, there's not going to be one ad or blog post or social media
-post that suddenly changes what you buy or how you vote or how you treat other
-people. You're not going to wake up one day and find that your worldview has
-shifted overnight.
+security fields, the bad guys are either in or they're out, and leaving stuff
+unsecured is fine until there's a break-in and you lose everything. But
+personality security threats are more insidious. Just like there's
+no one cigarette that kills you, there's not going to be one ad or blog post or
+social media post that suddenly changes what you buy or how you vote or how you
+treat other people. You're not going to wake up one day and find that your
+worldview has shifted overnight. But shift it will.
 
-But that's no reason to be cavalier or macho about it. You're not superhuman.
-You can be worn down just like everyone else.
+And yes, it really is your _worldview_ that's at stake. The dangerous part of
+propaganda — or any media, really — is not what it _says_, but what it assumes
+and implies. You can read a thousand right-wing blog posts and your politics
+won't budge. But you'll become fearful, distrustful, bitter. Your heart will
+harden — even if all thousand posts you read were written by Russian trolls
+and AI bots.
+
+Seriously, [go read the blog post I linked above][cigarettes-and-shopify].
