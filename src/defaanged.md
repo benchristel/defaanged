@@ -1,7 +1,7 @@
 # Life De-FAANGed
 
 For those of you who don't live night and day in the technosphere: FAANG stands
-for Facebook, Amazon, Apple, Netflix, and Google. In this article, I'll refer
+for Facebook, Amazon, Apple, Netflix, and Google. In this essay, I'll refer
 to these companies as exemplars, but what I really want to talk about is Big
 Tech in general, and the broader product categories these companies inhabit,
 and how it's all exploititive bullshit and you don't need any of it. Honestly,
